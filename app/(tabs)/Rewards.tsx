@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const index = () => {
+const Rewards = () => {
   return (
-    <View className="flex-1 items-center justify-center bg-white">
-      <Text>index</Text>
+    <View>
+      <Text>Rewards</Text>
     </View>
   )
 }
 
-export default index
+export default Rewards
 
 const styles = StyleSheet.create({})

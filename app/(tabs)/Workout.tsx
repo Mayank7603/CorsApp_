@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const index = () => {
+const Workout = () => {
   return (
-    <View className="flex-1 items-center justify-center bg-white">
-      <Text>index</Text>
+    <View>
+      <Text>Workout</Text>
     </View>
   )
 }
 
-export default index
+export default Workout
 
 const styles = StyleSheet.create({})
